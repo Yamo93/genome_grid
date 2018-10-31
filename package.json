@@ -1,0 +1,14 @@
+{
+  "name": "genome_grid_project",
+  "version": "1.0.0",
+  "description": "Genome Grid Project",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Yamo Gebrewold",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
